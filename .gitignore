@@ -1,0 +1,20 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+.xcworkspace
+# ignore All content folder
+/content/
+# except for the src folder in content folder
+!/content/src/
+# except for the src folder in content folder
+!CONTENT_ASSETS.txt
